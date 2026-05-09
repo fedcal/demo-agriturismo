@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "L'agriturismo è davvero certificato biologico?",
+      "risposta": "Sì. Masseria del Sole è certificata biologica dal 2008 con numero IT-BIO-005 secondo il Reg. UE 848/2018. Oliveto, vigneto, orto e stalla seguono disciplinare biologico certificato da ICEA. Il certificato è disponibile in masseria e su richiesta via email."
+    },
+    {
+      "domanda": "Come si prenota una camera?",
+      "risposta": "Puoi prenotare via email a info@masseriadelsole.it, per telefono al +39 0836 555 1850, o via WhatsApp. Accettiamo prenotazioni con minimo 2 notti in alta stagione (luglio-agosto) e 1 notte nel resto dell'anno. Caparra del 30% al momento della prenotazione."
+    },
+    {
+      "domanda": "La colazione biologica è inclusa nel prezzo camera?",
+      "risposta": "La colazione biologica è inclusa nelle tariffe della Suite Masseria e della Lamia del Frantoio. Per tutte le altre camere è disponibile a €12/persona con prodotti 100% aziendali: olio EVO, marmellate, pane di grano arso, yogurt di pecora, frutta stagionale."
+    },
+    {
+      "domanda": "Posso portare bambini in masseria?",
+      "risposta": "Assolutamente sì. La masseria è a misura di famiglia. Il Trullo della Vigna e la Camera Melograno sono ideali per famiglie con bambini. Le esperienze cooking class e raccolta olive sono adatte anche ai bambini (da 6 anni). Non è previsto supplemento culla fino ai 2 anni."
+    },
+    {
+      "domanda": "Come si prenota una delle esperienze (cooking class, wine tasting)?",
+      "risposta": "Le esperienze si prenotano separatamente via email o WhatsApp, con almeno 48h di anticipo. Non è necessario soggiornare in masseria per partecipare: le esperienze sono aperte anche agli esterni. Cancellazione gratuita fino a 24h prima."
+    },
+    {
+      "domanda": "La raccolta delle olive è disponibile tutto l'anno?",
+      "risposta": "No. La raccolta delle olive è un'esperienza stagionale disponibile solo da metà ottobre a fine novembre, durante la campagna olivicola. In quel periodo è possibile seguire l'intero processo dal campo alla frangitura nel frantoio ipogeo aziendale."
+    },
+    {
+      "domanda": "È possibile acquistare i prodotti senza soggiornare?",
+      "risposta": "Sì. Lo spaccio aziendale è aperto dal lunedì al sabato 9:00-13:00 e 16:00-19:00. I prodotti (olio EVO, vini, conserve, formaggi) sono acquistabili anche online con spedizione in Italia. Spedizioni con corriere espresso in 24/48h, confezionamento isotermico per formaggi."
+    },
+    {
+      "domanda": "Qual è la politica di cancellazione?",
+      "risposta": "Cancellazione gratuita fino a 7 giorni prima del check-in (caparra rimborsata al 100%). Cancellazione da 6 a 3 giorni prima: rimborso del 50% della caparra. Meno di 72 ore: caparra non rimborsabile. In caso di causa di forza maggiore documentata, rimborso integrale o voucher valido 12 mesi."
+    }
+  ]
+}

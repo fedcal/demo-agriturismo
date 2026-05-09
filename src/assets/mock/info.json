@@ -1,0 +1,50 @@
+{
+  "ragioneSociale": "Masseria del Sole S.S. Agricola",
+  "nomeCommerciale": "Masseria del Sole — Agriturismo Bio",
+  "tagline": "Agriturismo bio certificato — Salento, dal 1850",
+  "certificazioneBio": "IT-BIO-005 — Certificazione biologica UE Reg. 848/2018",
+  "anniFondazione": 1850,
+  "indirizzo": {
+    "via": "Contrada San Vito 12",
+    "citta": "Corigliano d'Otranto",
+    "provincia": "LE",
+    "cap": "73022",
+    "regione": "Puglia",
+    "paese": "Italia",
+    "lat": 40.1598,
+    "lng": 18.2549
+  },
+  "contatti": {
+    "telefono": "+39 0836 555 1850",
+    "whatsapp": "+39 347 1850 123",
+    "email": "info@masseriadelsole.it",
+    "social": {
+      "instagram": "https://instagram.com/masseriadelsole_demo",
+      "facebook": "https://facebook.com/masseriadelsole_demo"
+    }
+  },
+  "orari": {
+    "checkIn": "15:00 – 19:00",
+    "checkOut": "08:00 – 10:30",
+    "ristoranteAColazione": "07:30 – 10:00",
+    "ristoranteACena": "20:00 – 22:30 (su prenotazione)"
+  },
+  "servizi": {
+    "piscina": true,
+    "parcheggioGratuito": true,
+    "wifiGratuito": true,
+    "ariaCondizionata": true,
+    "accessibileDisabili": true,
+    "petFriendly": false,
+    "colazioneBiologica": true,
+    "ristoranteAzienda": true,
+    "venditaProdotti": true,
+    "ettariOliveto": 40,
+    "ettariVigneto": 8
+  },
+  "metaSeo": {
+    "title": "Masseria del Sole — Agriturismo Bio Salento dal 1850",
+    "description": "Agriturismo biologico certificato nel cuore del Salento. 8 camere in masseria storica, 4 esperienze agricole, prodotti km0. Olio EVO, vino Primitivo, cooking class.",
+    "keywords": ["agriturismo salento", "masseria bio puglia", "vacanze salento", "olio evo pugliese", "agriturismo biologico lecce"]
+  }
+}

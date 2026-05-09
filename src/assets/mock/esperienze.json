@@ -1,0 +1,65 @@
+{
+  "esperienze": [
+    {
+      "id": 1,
+      "nome": "Cooking Class Salentina",
+      "categoria": "cucina",
+      "descrizione": "Impara a cucinare i piatti della tradizione salentina con la famiglia Greco. Preparerai orecchiette al ragù di braciole, puccia con polpo, pittule fritte e pasticciotti leccesi. La classe si svolge nella cucina storica della masseria con forno a legna originale del 1920.",
+      "durata": "4 ore",
+      "orario": "10:00 – 14:00",
+      "prezzo": 65,
+      "paxMinimo": 2,
+      "paxMassimo": 8,
+      "incluso": ["grembiule e materiali", "ingredienti biologici aziendali", "pranzo con i piatti preparati", "ricettario cartaceo", "bottiglia di vino aziendale"],
+      "disponibilita": ["martedi", "giovedi", "sabato"],
+      "certificazione": "bio",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "nome": "Wine Tasting Primitivo e Negroamaro",
+      "categoria": "vino",
+      "descrizione": "Degustazione guidata di 5 vini biologici aziendali con Vito Greco, enologo e cantiniere della masseria. Visita alla cantina ipogea del '700, spiegazione del ciclo produttivo biologico, abbinamento con formaggi e salumi salentini.",
+      "durata": "2 ore",
+      "orario": "18:00 – 20:00",
+      "prezzo": 35,
+      "paxMinimo": 2,
+      "paxMassimo": 12,
+      "incluso": ["5 calici di vini biologici", "tagliere di formaggi e conserve aziendali", "bicchiere da degustazione in omaggio", "scheda tecnica vini"],
+      "disponibilita": ["lunedi", "mercoledi", "venerdi"],
+      "certificazione": "bio",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "nome": "Raccolta delle Olive",
+      "categoria": "agricoltura",
+      "descrizione": "Partecipa alla raccolta tradizionale delle olive tra ottobre e novembre. Impara le tecniche storiche a pettine e con reti, segui le olive dal campo al frantoio ipogeo aziendale per vedere la frangitura a freddo. Esperienza autentica e fisica nel cuore della campagna salentina.",
+      "durata": "3 ore",
+      "orario": "09:00 – 12:00",
+      "prezzo": 25,
+      "paxMinimo": 2,
+      "paxMassimo": 15,
+      "incluso": ["attrezzi per la raccolta", "colazione biologica al campo", "bottiglia di olio EVO appena franto (novembre)", "briefing agronomico"],
+      "disponibilita": ["da ottobre a novembre, tutti i giorni"],
+      "certificazione": "bio",
+      "stagionale": true,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "nome": "Tour degli Ulivi Monumentali",
+      "categoria": "natura",
+      "descrizione": "Passeggiata guidata tra gli ulivi monumentali millenari della masseria — alcuni datati al carbonio con oltre 1.500 anni di età. Giovanni Greco, agronomo della famiglia, racconta la storia, la cura e il significato culturale dell'olivicoltura salentina. Si conclude con degustazione di olio fresco a crudo.",
+      "durata": "2 ore",
+      "orario": "09:30 – 11:30 oppure 17:00 – 19:00",
+      "prezzo": 20,
+      "paxMinimo": 1,
+      "paxMassimo": 20,
+      "incluso": ["guida agronomo certificato", "degustazione 3 oli biologici", "brochure storica degli ulivi", "foto ricordo"],
+      "disponibilita": ["tutti i giorni"],
+      "certificazione": "bio",
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "camere": [
+    {
+      "id": 1,
+      "nome": "Camera Ulivo",
+      "tipologia": "camera_doppia",
+      "descrizione": "Camera doppia al piano terra con accesso diretto al giardino degli ulivi secolari. Arredata con mobili antichi in legno di ulivo, lenzuola in cotone biologico. Vista sul frantoio storico.",
+      "superficieMq": 22,
+      "capienza": 2,
+      "prezzoNotte": 90,
+      "servizi": ["aria condizionata", "bagno privato con doccia", "wifi", "vista giardino", "balcone"],
+      "immagine": "/assets/placeholder/camera-ulivo.jpg",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "nome": "Camera Vigneto",
+      "tipologia": "camera_doppia",
+      "descrizione": "Camera doppia al primo piano con vista panoramica sul vigneto di Primitivo. Finestre in tufo bianco salentino, soffitto a volta in pietra. Ideale per coppie.",
+      "superficieMq": 24,
+      "capienza": 2,
+      "prezzoNotte": 100,
+      "servizi": ["aria condizionata", "bagno privato con vasca", "wifi", "vista vigneto", "balcone"],
+      "immagine": "/assets/placeholder/camera-vigneto.jpg",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "nome": "Suite Masseria",
+      "tipologia": "suite",
+      "descrizione": "Suite principale con soffitto a stella barocco originale del 1850. Letto matrimoniale king size, salotto privato, vasca free-standing in pietra leccese. Il gioiello della masseria.",
+      "superficieMq": 45,
+      "capienza": 2,
+      "prezzoNotte": 180,
+      "servizi": ["aria condizionata", "bagno en suite con vasca free-standing", "wifi", "salotto privato", "vista cortile storico", "colazione in camera inclusa"],
+      "immagine": "/assets/placeholder/suite-masseria.jpg",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "nome": "Camera Fico",
+      "tipologia": "camera_doppia",
+      "descrizione": "Camera doppia con terrazza privata ombreggiata da un antico fico. Arredamento minimal in calce bianca, dettagli in ferro battuto artigianale.",
+      "superficieMq": 20,
+      "capienza": 2,
+      "prezzoNotte": 95,
+      "servizi": ["aria condizionata", "bagno privato con doccia", "wifi", "terrazza privata"],
+      "immagine": "/assets/placeholder/camera-fico.jpg",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "nome": "Camera Mandorlo",
+      "tipologia": "camera_doppia",
+      "descrizione": "Camera doppia affacciata sul mandorleto. Tranquilla e luminosa, con antichi pavimenti in cotto artigianale. Bagno ampio con doccia a pioggia.",
+      "superficieMq": 21,
+      "capienza": 2,
+      "prezzoNotte": 85,
+      "servizi": ["aria condizionata", "bagno privato con doccia", "wifi", "vista mandorleto"],
+      "immagine": "/assets/placeholder/camera-mandorlo.jpg",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "nome": "Camera Melograno",
+      "tipologia": "camera_doppia",
+      "descrizione": "Camera doppia con accesso diretto alla piscina. Arredata in stile salentino con mattonelle dipinte a mano. Ideale per chi ama passare le giornate all'aperto.",
+      "superficieMq": 23,
+      "capienza": 2,
+      "prezzoNotte": 110,
+      "servizi": ["aria condizionata", "bagno privato con doccia", "wifi", "accesso diretto piscina"],
+      "immagine": "/assets/placeholder/camera-melograno.jpg",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "nome": "Trullo della Vigna",
+      "tipologia": "trullo",
+      "descrizione": "Trullo restaurato immerso nel vigneto, a 200m dalla masseria principale. Indipendente con piccola cucina attrezzata, ideale per soggiorni romantici o famiglie. Cinta da ulivi e vigne.",
+      "superficieMq": 35,
+      "capienza": 3,
+      "prezzoNotte": 145,
+      "servizi": ["aria condizionata", "bagno privato con doccia", "wifi", "cucina attrezzata", "terrazza privata", "barbecue"],
+      "immagine": "/assets/placeholder/trullo-vigna.jpg",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "nome": "Lamia del Frantoio",
+      "tipologia": "lamia",
+      "descrizione": "Lamia indipendente adiacente al frantoio ipogeo del '700. Soffitto a botte in pietra, letto a baldacchino, piccolo patio privato con limonaia. L'essenza del Salento autentico.",
+      "superficieMq": 38,
+      "capienza": 2,
+      "prezzoNotte": 160,
+      "servizi": ["aria condizionata", "bagno privato con vasca", "wifi", "patio privato", "colazione inclusa"],
+      "immagine": "/assets/placeholder/lamia-frantoio.jpg",
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "categorie": [
+    { "id": "olio", "nome": "Olio EVO Biologico", "ordine": 1 },
+    { "id": "vino", "nome": "Vini Biologici", "ordine": 2 },
+    { "id": "conserve", "nome": "Conserve e Confetture", "ordine": 3 },
+    { "id": "formaggi", "nome": "Formaggi e Latticini", "ordine": 4 }
+  ],
+  "prodotti": [
+    {
+      "id": 1,
+      "categoria": "olio",
+      "nome": "Olio EVO Biologico Cultivar Ogliarola",
+      "descrizione": "Olio extravergine di oliva a freddo, cultivar Ogliarola salentina. Raccolta manuale ottobre-novembre, frangitura entro 24h. Note di pomodoro verde e mandorla fresca. Acidità < 0,2%.",
+      "formato": "750 ml",
+      "prezzo": 18.50,
+      "certificazione": "IT-BIO-005",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "categoria": "olio",
+      "nome": "Olio EVO Biologico Cultivar Cellina",
+      "descrizione": "Monocultivar Cellina di Nardò, più dolce e rotondo. Fruttato medio, ottimo per bruschette e piatti di pesce. Raccolta tradizionale a pettine.",
+      "formato": "750 ml",
+      "prezzo": 19.00,
+      "certificazione": "IT-BIO-005",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "categoria": "olio",
+      "nome": "Olio EVO Biologico Gran Riserva",
+      "descrizione": "Blend selezione delle olive migliori, raccolta anticipata metà ottobre. Imbottigliato in bottiglia in vetro scuro da 500ml con ceralacca. Regalo ideale.",
+      "formato": "500 ml",
+      "prezzo": 24.00,
+      "certificazione": "IT-BIO-005",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "categoria": "vino",
+      "nome": "Primitivo di Manduria BIO",
+      "descrizione": "Vino rosso biologico da uve Primitivo in purezza, IGP Salento. Vinificazione in acciaio + 6 mesi legno. Corpo pieno, note di prugna, spezie, cioccolato fondente. 14,5% vol.",
+      "formato": "750 ml",
+      "prezzo": 12.00,
+      "certificazione": "IT-BIO-005",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "categoria": "vino",
+      "nome": "Negroamaro Rosato BIO",
+      "descrizione": "Rosato biologico da uve Negroamaro, IGP Salento. Vinificazione breve contatto bucce. Colore rame intenso, fresco e sapido. Perfetto con pesce azzurro e verdure grigliate. 13% vol.",
+      "formato": "750 ml",
+      "prezzo": 9.50,
+      "certificazione": "IT-BIO-005",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "categoria": "vino",
+      "nome": "Verdeca Bianco BIO",
+      "descrizione": "Bianco biologico da uve Verdeca, vitigno autoctono salentino quasi scomparso. Fresco, minerale, con note di agrumi e fiori bianchi. Acidità vivace, ottimo come aperitivo. 12,5% vol.",
+      "formato": "750 ml",
+      "prezzo": 10.50,
+      "certificazione": "IT-BIO-005",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "categoria": "conserve",
+      "nome": "Pomodori Secchi sott'Olio BIO",
+      "descrizione": "Pomodori San Marzano essiccati al sole e conservati in olio EVO biologico della masseria con origano selvatico e peperoncino. Ricetta tradizionale salentina.",
+      "formato": "300 g",
+      "prezzo": 7.50,
+      "certificazione": "IT-BIO-005",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "categoria": "conserve",
+      "nome": "Olive Nere BIO in Salamoia",
+      "descrizione": "Olive Cellina di Nardò mature, raccolte a novembre e conservate in salamoia con erbe aromatiche. Gusto pieno e amarognolo caratteristico.",
+      "formato": "300 g",
+      "prezzo": 6.00,
+      "certificazione": "IT-BIO-005",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "categoria": "conserve",
+      "nome": "Confettura di Fichi BIO",
+      "descrizione": "Confettura biologica di fichi neri del Salento con limone e cannella. Ingredienti: fichi (70%), zucchero di canna grezzo integrale, succo di limone biologico. Senza pectina aggiunta.",
+      "formato": "240 g",
+      "prezzo": 5.50,
+      "certificazione": "IT-BIO-005",
+      "featured": false
+    },
+    {
+      "id": 10,
+      "categoria": "conserve",
+      "nome": "Pesto di Olive BIO",
+      "descrizione": "Pesto di olive verdi e nere con capperi, basilico e olio EVO aziendale. Spalmabile su crostini o per condire la pasta. 100% biologico.",
+      "formato": "180 g",
+      "prezzo": 6.50,
+      "certificazione": "IT-BIO-005",
+      "featured": true
+    },
+    {
+      "id": 11,
+      "categoria": "formaggi",
+      "nome": "Ricotta Fresca di Pecora",
+      "descrizione": "Ricotta biologica prodotta con siero di latte di pecora allevata al pascolo brado nella masseria. Leggera, fresca, delicata. Disponibile solo in loco o consegna giornaliera.",
+      "formato": "250 g",
+      "prezzo": 4.50,
+      "certificazione": "IT-BIO-005",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "categoria": "formaggi",
+      "nome": "Pecorino Stagionato BIO",
+      "descrizione": "Pecorino biologico stagionato 60 giorni in cantina della masseria. Pasta semidura, buccia trattata con olio EVO aziendale. Sapore deciso, ideale con miele di ulivo.",
+      "formato": "250 g",
+      "prezzo": 8.00,
+      "certificazione": "IT-BIO-005",
+      "featured": true
+    }
+  ]
+}

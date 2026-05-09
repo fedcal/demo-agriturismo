@@ -1,0 +1,40 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Rosa Greco",
+      "ruolo": "Fondatrice e Chef",
+      "bio": "Quinta generazione della famiglia Greco. Custodisce le ricette della tradizione salentina tramandate dalla bisnonna. Gestisce la cucina della masseria e le cooking class con la stessa passione con cui raccoglie le olive da quarant'anni.",
+      "anniEsperienza": 40,
+      "image": "/assets/placeholder/team-rosa.jpg",
+      "specialita": ["Cucina salentina tradizionale", "Pasta fresca", "Conserve biologiche", "Pasticceria"]
+    },
+    {
+      "id": 2,
+      "nome": "Giovanni Greco",
+      "ruolo": "Agronomo e Olivicoltore",
+      "bio": "Agronomo con laurea a Bari, tornato in masseria nel 2005 per guidare la conversione biologica certificata. Cura i 40 ettari di oliveto e 8 di vigneto con tecniche agroecologiche. Relatore a convegni sull'olivicoltura sostenibile.",
+      "anniEsperienza": 20,
+      "image": "/assets/placeholder/team-giovanni.jpg",
+      "specialita": ["Olivicoltura biologica", "Viticoltura sostenibile", "Certificazione BIO UE", "Agroecologia"]
+    },
+    {
+      "id": 3,
+      "nome": "Vito Greco",
+      "ruolo": "Enologo e Cantiniere",
+      "bio": "Figlio di Rosa e Giovanni. Enologo diplomato all'Istituto Agrario di Lecce, specializzato in vinificazione naturale. Produce i vini biologici aziendali con rifermentazione spontanea e minimo intervento in cantina.",
+      "anniEsperienza": 12,
+      "image": "/assets/placeholder/team-vito.jpg",
+      "specialita": ["Vinificazione naturale", "Degustazione professionale", "Abbinamenti vino-cibo", "Vitigni autoctoni salentini"]
+    },
+    {
+      "id": 4,
+      "nome": "Maria Greco",
+      "ruolo": "Hospitality e Relazioni Ospiti",
+      "bio": "Laurea in Scienze del Turismo a Lecce. Gestisce l'accoglienza, le prenotazioni e le esperienze per gli ospiti. Parla italiano, inglese e francese. Il sorriso della masseria e la voce che risponde al telefono.",
+      "anniEsperienza": 8,
+      "image": "/assets/placeholder/team-maria.jpg",
+      "specialita": ["Hospitality management", "Lingue straniere (EN, FR)", "Organizzazione eventi", "Turismo sostenibile"]
+    }
+  ]
+}
